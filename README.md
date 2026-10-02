@@ -5,7 +5,7 @@
 <p align="center">
   🎓 Graduate student<br>
   🤖 Working on <b>Vision-Language-Action (VLA)</b> models for dexterous robot manipulation<br>
-  🏆 Competing in <b>RoboSynChallenge 2026</b> (NeurIPS) — Team <i>JXNU SynDex</i>
+  🏆 Competing in <b>RoboSynChallenge 2026</b> (NeurIPS) — Team <i>SynDex</i>
 </p>
 
 ## 🛠️ Tech Stack
