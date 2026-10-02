@@ -3,10 +3,9 @@
 </div>
 
 <p align="center">
-  🎓 Graduate student @ School of Microelectronics, <b>Jiangxi Normal University</b><br>
+  🎓 Graduate student<br>
   🤖 Working on <b>Vision-Language-Action (VLA)</b> models for dexterous robot manipulation<br>
-  🏆 Competing in <b>RoboSynChallenge 2026</b> (NeurIPS) — Team <i>JXNU SynDex</i><br>
-  📫 <a href="mailto:xjx1223@foxmail.com">xjx1223@foxmail.com</a>
+  🏆 Competing in <b>RoboSynChallenge 2026</b> (NeurIPS) — Team <i>JXNU SynDex</i>
 </p>
 
 ## 🛠️ Tech Stack
